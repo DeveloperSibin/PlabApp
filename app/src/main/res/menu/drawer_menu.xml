@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single" android:id="@+id/main_nav">
+        <item android:id="@+id/home" android:title="Home" android:icon="@drawable/home_icon"/>
+        <item android:id="@+id/achieve" android:title="Achievements" android:icon="@drawable/achieve_icon"/>
+        <item android:id="@+id/submit" android:title="Submit Questions" android:icon="@drawable/submit_icon"/>
+    </group>
+
+    <group android:checkableBehavior="single" android:id="@+id/sub_nav">
+        <item android:id="@+id/about" android:title="About Us" android:icon="@drawable/about_icon"/>
+        <item android:id="@+id/terms" android:title="Terms and Conditions" android:icon="@drawable/terms_icon"/>
+
+    </group>
+
+</menu>

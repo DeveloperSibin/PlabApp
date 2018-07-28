@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2195F6</color>
+    <color name="colorPrimaryDark">#2195F6</color>
+    <color name="colorAccent">#607d8b</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#808080</color>
+    <color name="navigation_header">#217af6</color>
+    <color name="navigation">#2188f6</color>
+    <color name="footerStart">#1d457b</color>
+    <color name="footerEnd">#102540</color>
+</resources>
