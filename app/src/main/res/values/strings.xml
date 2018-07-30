@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">PlabMate</string>
+    <string name="mock_test">MOCK TEST</string>
+    <string name="practice">PRACTICE</string>
+    <string name="get_social_follow_us">Get Social. Follow us!</string>
+    <string name="name_resource">Sibin</string>
+    <string name="facebookicon">facebookIcon</string>
+    <string name="youtubeicon">youtubeIcon</string>
+    <string name="useravatar">userAvatar</string>
 </resources>
